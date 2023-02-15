@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Automated Tests with Cypress Framework.
 - 📫 How to reach me: aracellieng@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a Classical Ballet lover and dancer (maybe that's the source of my creativity 😄)
+- ⚡ Fun fact: I'm a Classical Ballet lover and dancer😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
