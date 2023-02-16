@@ -4,7 +4,7 @@
 <h3 align="center">A passionate QA from Brazil</h3>
 
 - 🔭 I’m  working on Software Quality Assurance.
-- 🌱 I’m currently learning Automated Tests with Cypress Framework.
+- 🌱 I’m currently learning Automated Tests with Cypress Framework and Unit Tests with Jest.
 - 📫 How to reach me: aracellieng@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Classical Ballet lover and dancer😄
