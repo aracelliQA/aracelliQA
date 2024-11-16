@@ -5,7 +5,7 @@
 
 - 🔭 I’m  working on Software Quality Assurance.
 - 🌱 I’m currently running Automated Tests with Cypress Framework.
-- 📫 How to reach me: aracellieng@gmail.com
+- 📫 How to reach me: novaes.aracelli@gmail.com@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Classical Ballet lover and dancer😄
 
